@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4ec7cfaec82ddb043b119ac2bc115552
+timeCreated: 1540894933
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turretProfile: {instanceID: 0}
+  - range: {fileID: 135573782040337838, guid: d448f02b1c865f8409ae756a59c6972d, type: 2}
+  - canvas: {fileID: 223058933007986278, guid: f5948e4d2a506e54fbfc8d73d6aa7338, type: 2}
+  - slider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
